@@ -1,0 +1,14 @@
+/* For  Logo */
+.logo1 {
+  width: 60px;
+}
+/* for nav */
+.hv:hover {
+  border: 1px solid;
+  border-radius: 10px;
+  background-color: aqua;
+}
+/* For carousel  */
+.hg {
+  height: 300px;
+}
